@@ -47,4 +47,4 @@
 
 ## 📫 연락처
 
-junyong200201@gmail.com
+✉️ junyong200201@gmail.com
