@@ -1,6 +1,5 @@
-# 정준용 · 게임 기획 지망
+# J Yong · 게임 기획 지망
 
-**기획하고, 직접 구현하는 기획자**를 목표로 합니다.
 규칙을 문서로 정리하고, Unity로 직접 만들어 보고, 플레이 테스트 결과에 따라 고칩니다.
 
 ## 🎯 대표 프로젝트
@@ -45,3 +44,7 @@
 - **게임**: Unity (C#), Google Cardboard VR, WebGL
 - **문서·협업**: 기획서·결과 보고서 작성, Git / GitHub
 - **앱**: Android (Kotlin, Java) — [MySubwayDiary](https://github.com/startercube/MySubwayDiary), [MyEnglishBook](https://github.com/startercube/MyEnglishBook)
+
+## 📫 연락처
+
+junyong200201@gmail.com
